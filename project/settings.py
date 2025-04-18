@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j)xo0vw2il@p@1owh!jdiy*o9fzr(1gzu-e=%fillc0w4g^tmw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['egyhorizon.com']
+ALLOWED_HOSTS = ['egyhorizon.com','wwww.egyhorizon.com']
 
 
 # Application definition
